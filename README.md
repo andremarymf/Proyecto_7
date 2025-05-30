@@ -1,3 +1,5 @@
+Hola PRofe ezequiel, muchas gracias por la revision
+mi proyecto no se encuentra vacio, se encuentras en la rama master 
 Sprint-_7
 Analizar datos de vehículos usados en EE.UU. Incluye histogramas y gráficos interactivos con Plotly para visualizar la relación entre precio y kilometraje
 
